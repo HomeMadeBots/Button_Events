@@ -1,6 +1,6 @@
 @startuml
 
-class Buttons_Released <<Event_Interface>>
+class Button_Released <<Event_Interface>>
 {
   This event is sent when a push button is released.
 }
