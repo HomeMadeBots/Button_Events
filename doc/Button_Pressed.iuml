@@ -1,0 +1,8 @@
+@startuml
+
+class Buttons_Pressed <<Event_Interface>>
+{
+  This event is sent when a push button is pressed.
+}
+
+@enduml
